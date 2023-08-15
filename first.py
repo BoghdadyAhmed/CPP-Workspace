@@ -15,11 +15,6 @@
 #myage = input()
 #print(' you will be ' + str(int(myage)+1) + ' bin a year')
 
-    #for i in range(6):
-        
-   #print("Hello")
-   me=input()
-   print(me)
-   
+    
  
 
